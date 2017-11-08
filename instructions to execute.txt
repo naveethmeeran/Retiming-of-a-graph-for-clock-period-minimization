@@ -1,0 +1,12 @@
+Instructions to execute the script naveethabhilash which performs retiming for clock period minimization
+
+1.The inputs to the program should be provided through the text file input.txt.
+2.The format of input in input.txt is as follows:
+a.numberofnodes numberofedges 0
+b.node nodecomputationtime 0
+c.sourcenode destinationnode edgeweight
+3.Repeat the steps b and c as many times as the number of nodes and number of edges in your graph.
+4.Execute the script naveethabhilash
+5.The script displays input graph, retiming values, retimed graph, clock period of input graph and clock period of retimed graph in the command window.
+6.W and D matrices of input graph and retimed graph are named as W and D and W1 and D1.
+7.Constraint graph is represented as congraph.
